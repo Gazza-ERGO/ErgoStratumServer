@@ -27,7 +27,7 @@ with necessary modifications to support Ergo.
   ```
     "daemons": [
           {   //Main daemon instance
-              "host": "88.198.13.202",// node's url
+              "host": "192.168.5.5",// node's url
               "port": 9053, // node's port
               "user": "litecoinrpc", // anything, not used
               "password": "testnet" // anything, not used
